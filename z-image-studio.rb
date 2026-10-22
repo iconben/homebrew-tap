@@ -1,6 +1,6 @@
 cask "z-image-studio" do
-  version "0.1.2"
-  sha256 "8d7933c9cbd6a8c155e171cafe09535ded924988373a36e890003208b53fa789"
+  version "0.2.0"
+  sha256 "e8d9eb5e6119b67ab274e54589c527394c6a5b6d9ecf0be6fcfccb1cf9d5f3ad"
 
   url "https://github.com/iconben/z-image-studio/releases/download/v#{version}/Z-Image-Studio-macOS-arm64-#{version}.dmg"
   name "Z-Image Studio"
